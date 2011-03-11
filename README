@@ -1,0 +1,3 @@
+This extension simply shrinks the size of XML documentation comments.
+
+The code borrows heavily from ItalicComments found here: https://github.com/noahric/italiccomments
